@@ -1,2 +1,2 @@
-# can
-projects for studies
+# cantera
+a project for studies
