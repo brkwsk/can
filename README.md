@@ -1,4 +1,4 @@
-# cantera project with GUI
+# python cantera project with GUI
 This is a project for simulating pressure loss in a leaking tank containing flammable mixture of gases.
 
 After running the code, the GUI should launch.
